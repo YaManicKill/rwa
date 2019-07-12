@@ -2,7 +2,8 @@
 title: "Time"
 episode: "2"
 Description: "In this episode, Al talks about timezones, daylight saving time, and his annoyances with them."
-podcast: "rwa-2.mp3"
+guid: "https://dts.podtrac.com/redirect.mp3/ymk.nyc3.digitaloceanspaces.com/rwa-2.mp3"
+podcast: "rwa/rwa-002.mp3"
 podcast_bytes: "23035819"
 podcast_duration: "00:09:46"
 date: 2017-09-29T00:00:00+01:00
