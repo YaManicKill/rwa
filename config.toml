@@ -8,3 +8,5 @@ theme = "hyde"
   layoutReverse = true
   description = "A short podcast about what frustrates Al"
   creator = "TheScotBot"
+  author = "Al McKinlay"
+  pocketcasts = "https://pca.st/ooTG"
