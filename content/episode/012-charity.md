@@ -2,6 +2,7 @@
 title: "Charity"
 episode: "12"
 Description: "Al talks about charity, and how people are quite often doing it wrong and don't even care."
+guid: "rwa-012"
 podcast: "rwa/rwa-012.mp3"
 podcast_bytes: "5094921"
 podcast_duration: "00:05:18"
